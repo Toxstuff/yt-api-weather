@@ -1,0 +1,24 @@
+.weather-container 
+{
+    background: gray; /*background color*/
+    text-align: center; /*center Text*/
+}
+
+.city 
+{
+    font-size: 40px; /*Text size*/
+    margin: 0; /*set margin to 0*/
+    font-weight: bold;/*makes text bold*/
+}
+.weather 
+{
+    font-size: 22px; /*Text size*/
+    margin: 0; /*set margin to 0*/
+}
+
+.temp
+{
+    font-size: 60px;/*Text size*/
+    margin: 0; /*set margin to 0*/
+    font-weight: bold;/*makes text bold*/
+}
